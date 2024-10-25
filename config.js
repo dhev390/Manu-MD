@@ -53,15 +53,15 @@ ANTI_STICKER: process.env.ANTI_STICKER || "false",  // ස්ටිකර් ද
 WARN_COUNT : process.env.WARN_COUNT || "3",
 
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //ස්ටේට්ස් විව් ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
-AUTO_REACT: process.env.AUTO_REACT || "false", //ඔටෝ රිඇක්ට් වෙන්න් ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
+AUTO_REACT: process.env.AUTO_REACT || "true", //ඔටෝ රිඇක්ට් වෙන්න් ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 AUTO_BIO: process.env.AUTO_BIO || "false",
 READ_CMD: process.env.READ_CMD || "true", //කමාන්ඩ් Read වෙන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 AUTO_VOICE: process.env.AUTO_VOICE || "true", //ඔටෝ වොයිස් යන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 MENU: process.env.MENU || "true",
-ANTI_BAD: process.env.ANTI_BAD || "true",
+ANTI_BAD: process.env.ANTI_BAD || "false",
 ANTI_LINK: process.env.ANTI_LINK || "false", //Whatsapp Group ලින්ක් දැම්මාම ඩිලීට් වෙන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39",
-ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "false", // හැම වෙලේම ඔන්ලයි ඉන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
+ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "true", // හැම වෙලේම ඔන්ලයි ඉන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 AUTO_TYPING : process.env.AUTO_TYPING || "false",
 AUTO_RECORDING : process.env.AUTO_RECORDING || "false", //ඔටෝ රෙකෝඩින් පෙන්නන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 OWNER_NUMBER : process.env.OWNER_NUMBER || "94766494699", // ඔයාගෙ නම්බරේ ඔතනට දාගන්න මුලට 94 තියෙන්න ඕනි 0 දාන්න එපා !
