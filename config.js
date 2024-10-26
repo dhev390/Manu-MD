@@ -47,7 +47,7 @@ SESSION_ID: process.env.SESSION_ID || "Manu-MD&qYFTmKaQ#hunI6l2r094H62yeX0hn8ZkF
 ALIVE_IMG : process.env.ALIVE_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
 ALIVE_MSG : process.env.ALIVE_MSG || "Put your alive messege",
 MENU_IMG : process.env.MENU_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
-MODE : process.env.MODE || "public", // ඔයාට විතරක් වැඩ කරන්න් ඕනි නම් "private" දාන්න... හැමෝටම වැඩ කරන්න නම් "public" , ගෲප් වලට විතරක් ඕනි නම් "groups" දාන්න...✓💚 
+MODE : process.env.MODE || "private", // ඔයාට විතරක් වැඩ කරන්න් ඕනි නම් "private" දාන්න... හැමෝටම වැඩ කරන්න නම් "public" , ගෲප් වලට විතරක් ඕනි නම් "groups" දාන්න...✓💚 
 ANTI_PHOTO: process.env.ANTI_PHOTO || "false",  // පොටෝ දැම්මාම ඩිලීට් වෙන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 ANTI_STICKER: process.env.ANTI_STICKER || "false",  // ස්ටිකර් දැම්මාම ඩිලීට් වෙන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 WARN_COUNT : process.env.WARN_COUNT || "3",
